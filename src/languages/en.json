@@ -1,0 +1,59 @@
+{
+  "form": {
+    "name": "Full name:",
+    "age": "Age:",
+    "email": "Email:",
+    "password": "Password:",
+    "passwordConfirm": "Confirm password:",
+    "register": "Register",
+    "login": "Login"
+  },
+  "validate": {
+    "nameRequire": "Name is required",
+    "nameMinLetters": "Name must have at least 4 letters",
+    "nameMaxLetters": "Name must have maximum 128 letters",
+    "emailRequire": " Email is required",
+    "emailAddress": " Email must have address",
+    "ageRequire": "Age is required",
+    "ageMin": "Minimum age is 10",
+    "passwordRequire": " Password is required",
+    "passwordMinLetters": "Password must have at least 8 letters",
+    "passwordConfirm": "Password confirm must the same as password",
+    "inputTodo":"Input is required"
+  },
+  "profile": {
+    "browse": "Browse",
+    "submitAvatar": "Submit Avatar",
+    "changeInfor": "Change Information",
+    "titleInfor": "User Information "
+  },
+  "navigation": {
+    "home": "HOME",
+    "profile": "Profile",
+    "register": "Register",
+    "login": "login",
+    "logout": "Log out"
+  },
+  "notification": {
+    "loginTitleSuccess": "Login Success !",
+    "loginTitleFail"  : "Login is Fail !" ,
+    "registerTextFail" :"This email is already registered, please use another email",
+    "registerTitleSuccess": "Register Success !",
+    "registerTitleFail"  : "Register is Fail !", 
+    "changeAvatarSuccess":"Change avatar successfully !",
+    "changeAvatarFail":"Change avatar Fail !",
+    "updateInformationSuccess":"Update Information Success !",
+    "updateInformationFail":"Update Information Fail !"
+  },
+  "LogOut":{
+    "confirm":"Are you sure ?"
+  },
+  "Todo":{
+    "title":"Todo List",
+    "placeholder":"What needs to be done",
+    "btnAddTodo":"ADD TODO",
+    "btnAll":"All",
+    "btnIncompleted":"Incompleted",
+    "btnCompleted":"Completed"
+  }
+}

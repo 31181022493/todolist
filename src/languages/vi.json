@@ -1,0 +1,59 @@
+{
+    "form": {
+      "name": "Họ và tên:",
+      "age": "Tuổi:",
+      "email": "Email:",
+      "password": "Mật Khẩu:",
+      "passwordConfirm": "Nhập lại mật khẩu:",
+      "register": "Đăng ký",
+      "login": "Đăng nhập"
+    },
+    "validate": {
+      "nameRequire": "Tên không được để trống",
+      "nameMinLetters": "Tên có ít nhất 4 kí tự",
+      "nameMaxLetters": "Tên có nhiều nhất 128 kí tự",
+      "emailRequire": " Email không được để trống",
+      "emailAddress": " Email phải có địa chỉ",
+      "ageRequire": "Tuổi không được để trống",
+      "ageMin": "Tuổi lớn hơn hoặc bằng 10",
+      "passwordRequire": " Mật khẩu không được để trống",
+      "passwordMinLetters": "Mật khẩu có ít nhất 8 kí tự",
+      "passwordConfirm": "Khác với mật khẩu đã nhập",
+      "inputTodo":"Bạn chưa nhập công việc"
+    },
+    "profile": {
+      "browse": "Chọn tệp",
+      "submitAvatar": "Thay ảnh đại diện",
+      "changeInfor": "Thay đổi thông tin",
+      "titleInfor": "Thông tin của bạn"
+    },
+    "navigation": {
+      "home": "TRANG CHỦ",
+      "profile": "Thông tin",
+      "register": "Đăng ký",
+      "login": "Đăng nhập",
+      "logout": "Đăng Xuất"
+    },
+    "notification": {
+      "loginTitleSuccess": "Đăng nhập thành công!",
+      "loginTitleFail"  : "Đăng nhập thất bại",
+      "registerTextFail" :"Email này đã được đăng ký, hãy nhập email khác.",
+      "registerTitleSuccess": "Đăng ký thành công !",
+      "registerTitleFail"  : "Đăng ký thất bại !" ,
+      "changeAvatarSuccess":"Thay ảnh đại diện thành công !",
+      "changeAvatarFail":"Thay ảnh đại diện thất bại !",
+      "updateInformationSuccess":"Cập nhật thông tin thành công!",
+      "updateInformationFail":"Cập nhật thông tin thất bại"
+    },
+    "Logout":{
+      "confirm":"Bạn có muốn đăng xuất ?"
+    },
+    "Todo":{
+      "title":"NHỮNG VIỆC CẦN LÀM",
+      "placeholder":"Nhập việc bạn cần làm",
+      "btnAddTodo":"Thêm vào",
+      "btnAll":"Tất cả",
+      "btnIncompleted":"Chưa hoàn thành",
+      "btnCompleted":"Hoàn thành"
+    }
+  }
